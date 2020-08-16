@@ -61,11 +61,14 @@ flutter {
 
 dependencies {
     testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test:runner:1.2.0'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
 
     // Alternatively, use ArSceneView without the UX dependency.
-    implementation 'com.google.ar.sceneform:core:1.8.0'
+    api 'com.google.ar.sceneform:core:1.14.0'
     implementation 'com.google.ar:core:1.8.0'
+
 }
+
+
