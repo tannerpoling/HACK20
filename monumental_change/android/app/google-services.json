@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846987163050",
+    "firebase_url": "https://monumental-change.firebaseio.com",
+    "project_id": "monumental-change",
+    "storage_bucket": "monumental-change.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846987163050:android:1b4e2fa8934def8a73a7d3",
+        "android_client_info": {
+          "package_name": "com.example.monumental_change"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846987163050-ujtr290b5hi2sm8qq8jg2mq45vjeek1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7S1uNKExy_UNdPh4gHq5E4nUQ2xg65Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846987163050-ujtr290b5hi2sm8qq8jg2mq45vjeek1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
